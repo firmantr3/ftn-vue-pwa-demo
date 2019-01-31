@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ftn-vue-pwa-demo/precache-manifest.532b06b85be12cf601ee1fbde252613a.js"
+  "/ftn-vue-pwa-demo/precache-manifest.193e8e827e124b4a2ad3264cddd26325.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ftn-vue-pwa"});
