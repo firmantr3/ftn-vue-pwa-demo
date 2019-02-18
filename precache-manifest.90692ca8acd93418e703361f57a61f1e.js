@@ -1,59 +1,59 @@
 self.__precacheManifest = [
   {
-    "revision": "b0234f374c4c2e4497ef",
+    "revision": "c63eec4c08000133a3fa",
     "url": "/ftn-vue-pwa-demo/css/app.aa4e6d09.css"
   },
   {
-    "revision": "b0234f374c4c2e4497ef",
-    "url": "/ftn-vue-pwa-demo/js/app.b6cb1f74.js"
+    "revision": "c63eec4c08000133a3fa",
+    "url": "/ftn-vue-pwa-demo/js/app.3db8ffb5.js"
   },
   {
-    "revision": "124c0f2c1e1cd33a8b35",
+    "revision": "4e8ddcc80efa7b60b255",
     "url": "/ftn-vue-pwa-demo/css/chunk-2c4a5ecb.9eb8e684.css"
   },
   {
-    "revision": "124c0f2c1e1cd33a8b35",
-    "url": "/ftn-vue-pwa-demo/js/chunk-2c4a5ecb.6bb14850.js"
+    "revision": "4e8ddcc80efa7b60b255",
+    "url": "/ftn-vue-pwa-demo/js/chunk-2c4a5ecb.b9dbc989.js"
   },
   {
-    "revision": "7cd46873b05278dd120f",
-    "url": "/ftn-vue-pwa-demo/js/chunk-2d0abcb4.f76e54dd.js"
+    "revision": "acf7a5f7a0feaba34d40",
+    "url": "/ftn-vue-pwa-demo/js/chunk-2d0abcb4.7ad26373.js"
   },
   {
-    "revision": "3574e8eaf0c6c48c9c27",
-    "url": "/ftn-vue-pwa-demo/js/chunk-2d213127.25f2a0e3.js"
+    "revision": "2576004363e74f5a405e",
+    "url": "/ftn-vue-pwa-demo/js/chunk-2d213127.8beed88d.js"
   },
   {
-    "revision": "935a0939691a324fc57d",
-    "url": "/ftn-vue-pwa-demo/js/chunk-2d21eb45.82f53280.js"
+    "revision": "126a13830760616a68d4",
+    "url": "/ftn-vue-pwa-demo/js/chunk-2d21eb45.01afd25a.js"
   },
   {
-    "revision": "cbd8aa8657afbb5d9c22",
-    "url": "/ftn-vue-pwa-demo/js/chunk-2d225216.e134e757.js"
+    "revision": "83863c862776632faefb",
+    "url": "/ftn-vue-pwa-demo/js/chunk-2d225216.e4e49ca2.js"
   },
   {
-    "revision": "bfd3d6c653946e56b068",
-    "url": "/ftn-vue-pwa-demo/js/chunk-2d23118b.873f346c.js"
+    "revision": "fb541df50775cac4f154",
+    "url": "/ftn-vue-pwa-demo/js/chunk-2d23118b.f875ac8b.js"
   },
   {
-    "revision": "35813fa38b29173928e7",
-    "url": "/ftn-vue-pwa-demo/js/chunk-3beb6d94.199c55c0.js"
+    "revision": "d4ea1afa719a7adeab84",
+    "url": "/ftn-vue-pwa-demo/js/chunk-3beb6d94.cffad4fb.js"
   },
   {
-    "revision": "490889c138007770ad88",
-    "url": "/ftn-vue-pwa-demo/js/chunk-7459534f.f35252c7.js"
+    "revision": "328afdaca39e07c6ae70",
+    "url": "/ftn-vue-pwa-demo/js/chunk-7459534f.ba6ad76b.js"
   },
   {
-    "revision": "95e89ea8a02a683fc930",
+    "revision": "e3dbd7caf43a0d885e77",
     "url": "/ftn-vue-pwa-demo/css/chunk-93c5fdaa.2a2e351b.css"
   },
   {
-    "revision": "95e89ea8a02a683fc930",
-    "url": "/ftn-vue-pwa-demo/js/chunk-93c5fdaa.69464639.js"
+    "revision": "e3dbd7caf43a0d885e77",
+    "url": "/ftn-vue-pwa-demo/js/chunk-93c5fdaa.2fdb47d3.js"
   },
   {
-    "revision": "a32e6714a90f15b448a3",
-    "url": "/ftn-vue-pwa-demo/js/chunk-da4791d4.9b6d7b99.js"
+    "revision": "14d01208ef2fe103f3d4",
+    "url": "/ftn-vue-pwa-demo/js/chunk-da4791d4.b510979b.js"
   },
   {
     "revision": "838ab693ec76e4d759d0",
@@ -92,7 +92,7 @@ self.__precacheManifest = [
     "url": "/ftn-vue-pwa-demo/img/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "07bd1587dff1a8ab316c1b8d36528147",
+    "revision": "9fef5bda4006df75495d3e437756325f",
     "url": "/ftn-vue-pwa-demo/index.html"
   },
   {
