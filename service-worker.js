@@ -1,4 +1,4 @@
-importScripts("/ftn-vue-pwa-demo/precache-manifest.c7dfe3068a8842b60936301a256d70a7.js", "https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
+importScripts("/ftn-vue-pwa-demo/precache-manifest.fee601f36db4638c50c40cdf3128d907.js", "https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
